@@ -1,0 +1,27 @@
+
+body {
+    height: 100vh;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    /* justify-content: center; */
+
+}
+.lite-bright-container {
+display: grid;
+grid-template-columns: 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px ;
+
+height: 500px;
+width: 500px;
+}
+
+
+
+.cell {
+height: 50px;
+width: 50px;
+border: white 1px solid;
+
+}
